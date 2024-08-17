@@ -44,7 +44,6 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/bc4b31e6-632a-4814-b7ab-0fd3e5905b05)
 
-
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
